@@ -1,4 +1,4 @@
-#Hello, I am: Max
+#Hello, I am: Mäx
 ---
 ### … I'm interested in:
 * How it works …<br>
